@@ -12,5 +12,5 @@ There is also another "control" thread which enables the switch between people w
 
 Important notes:
 Sometimes it may seem like there is nothing happening this is due to two possible things:
-a) The visitors are watching the exhibition for a long time or
-b) The system got stuck on something. Unfortunately it sometimes happens that when there are a lot of people on the border between Hall A and Hall B the program can just not do anything. As I have not managed to find the reason for such behaviour, I suggest terminating the program and executing it again, it should now finish the execution as this bug rarely happened during testing.
+1. The visitors are watching the exhibition for a long time or
+2. The system got stuck on something. Unfortunately it sometimes happens that when there are a lot of people on the border between Hall A and Hall B the program can just not do anything. As I have not managed to find the reason for such behaviour, I suggest terminating the program and executing it again, it should now finish the execution as this bug rarely happened during testing.
