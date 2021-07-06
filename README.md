@@ -1,5 +1,5 @@
 # Museum_OSCP
-Project for OS&amp;CP laboratories
+Project for OS&amp;CP laboratories made by Maciej Iwaszkiewicz
 
 In order to run this program you need to:
 1. Use "make" to compile the program
